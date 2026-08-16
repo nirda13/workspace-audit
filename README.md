@@ -18,7 +18,7 @@ Add to Cursor `mcp.json`:
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/nirda13/workspace-audit.git",
+        "https://github.com/nirda13/workspace-audit.git",
         "workspace-audit"
       ]
     }
